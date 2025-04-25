@@ -71,7 +71,7 @@ When submitting a PR, please follow these key points (in addition to [Eclipse’
   > Example: `fix(auth): resolve token expiration bug`
 
 - Use [imperative mood](https://github.com/git/git/blob/master/Documentation/SubmittingPatches#L307), and link related GitHub issues.
-- Make sure all contributors have a valid [ECA](#eclipse-contributor-agreement) and include `Signed-off-by` lines.
+- Make sure all contributors have a valid [ECA](#eclipse-contributor-agreement-eca) and include `Signed-off-by` lines.
 - Use the [PR template](.github/PULL_REQUEST_TEMPLATE.md).
 - Submit draft PRs early and tag previous contributors as reviewers.
 - Ensure all automatic checks pass:
@@ -117,7 +117,6 @@ Committers are responsible for steering the project and approving contributions.
 #### 🧾 Normative Editors
 Active Committers also serve as editors of specifications, ensuring consistency, accuracy, and formatting.
 
-> As of October 17, 2024, this role is shared by all active Committers.
 
 #### How to Become a Committer
 Committers are nominated by existing team members based on:
