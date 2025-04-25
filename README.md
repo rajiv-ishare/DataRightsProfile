@@ -1,3 +1,4 @@
+
 # DataRightsProfile
 The Dataspace Data Rights Policy Profile contains specifications for data rights holders, enabling them to excercise their data rights when sharing data with other parties. 
 
@@ -12,3 +13,4 @@ We welcome feedback from users of the Data Rights Policies Profile! Your insight
 Please share your input by starting a [Discussion](https://github.com/eclipse-dataspace-drp/DataRightsProfile/discussions) in this repository.
 
 For detailed contribution guidelines, check out our [CONTRIBUTING file](CONTRIBUTING.md).
+
