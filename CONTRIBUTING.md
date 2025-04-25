@@ -5,7 +5,7 @@ Thank you for your interest in contributing to the [Eclipse Data Rights Policies
 This guide will walk you through how to get involved, from discussions and issues to pull requests and project roles.
 
 ## Table of Contents
-- [Eclipse Contributor Agreement](#eclipse-contributor-agreement)
+- [Eclipse Contributor Agreement](#eclipse-contributor-agreement-eca)
 - [Ways to Contribute](#ways-to-contribute)
   - [Start a Discussion](#start-a-discussion)
   - [Open an Issue](#open-an-issue)
@@ -70,7 +70,7 @@ When submitting a PR, please follow these key points (in addition to [Eclipse’
   ```
   > Example: `fix(auth): resolve token expiration bug`
 
-- Use [imperative mood](https://github.com/git/git/blob/master/Documentation/SubmittingPatches), and link related GitHub issues.
+- Use [imperative mood](https://github.com/git/git/blob/master/Documentation/SubmittingPatches#L307), and link related GitHub issues.
 - Make sure all contributors have a valid [ECA](#eclipse-contributor-agreement) and include `Signed-off-by` lines.
 - Use the [PR template](.github/PULL_REQUEST_TEMPLATE.md).
 - Submit draft PRs early and tag previous contributors as reviewers.
@@ -135,6 +135,6 @@ Committers can step down anytime. If inactive for 6 months, the project lead wil
 
 Have questions or ideas? Contact the team via our [developer mailing list](https://accounts.eclipse.org/mailing-list/dataspace-drp-dev).
 
-We also hold bi-weekly calls for Committers and the community on Thursdays. Find meeting details in our [GitHub discussions](https://github.com/eclipse-dataspace-drp/DataRightsProfile/discussions).
+
 
 > Committers are automatically invited to the Committer meetings.
